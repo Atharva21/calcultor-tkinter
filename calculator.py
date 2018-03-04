@@ -6,9 +6,9 @@ BUTTON_WIDTH = 6
 root = Tk()
 root.geometry("+500+200")
 root.title("Calculator")
-root.resizable(False, False)
+root.resizable(False, False)   ##make window size fixed.
 
-equation = StringVar()
+equation = StringVar()      #make label a string var as its value changes constantly.
 equa = ""
 equation.set("Enter Expression.")
 
