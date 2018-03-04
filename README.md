@@ -1,7 +1,5 @@
 # calcultor-tkinter
 calculator application using tkinter module in python
-
-Grid method is used to position the buttons on the calculator.
-And, the eval() function is used to evaluate the entered expressions.
+https://github.com/Atharva21/calcultor-tkinter/blob/master/README.md
 
 The code is in calculator.py
