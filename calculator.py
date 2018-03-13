@@ -1,5 +1,5 @@
 from tkinter import *
-my_font = ("Calibri", 52, "Bold")
+my_font = ("Consolas 12 bold")
 BUTTON_HT = 3
 BUTTON_WIDTH = 6
 
